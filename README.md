@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://pedrohfaig.github.io/TRAINEME)
+- [Visite o projeto online](https://pedrohfaig.github.io/Traineme)
 
 ---
 
