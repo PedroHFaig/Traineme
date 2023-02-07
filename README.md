@@ -1,4 +1,4 @@
-<h1 align="center"> Corrigindo Bugs: Traine me </h1>
+<h1 align="center"> Corrigindo Bugs: Treine me </h1>
 
 <p align="center">
 Neste desafio recebemos o codigo modificado do layout que desenvolvemos durante as aulas do curso Explorer da Rocketseat, com a intenção de corrirgmos os bugs e deixar a aplicação correta. <br/>
